@@ -1,5 +1,5 @@
 # WhatsApp-spammer
-> A WhatsApp spammer bot
+> A WhatsApp spammer program
 
 ## About program
 > This program can send more than 1000 messages per second on WhatsApp.
