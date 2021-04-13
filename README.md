@@ -13,5 +13,5 @@ To work with this program, you must download the Chromedriver file. This file is
 pip install selenium
 
 # Install chrome driver
-Download chrome driver from the project here: [chromedriver](./chromedriver)
+Download chrome driver from the project here: [chromedriver](chromedriver)
 ```
