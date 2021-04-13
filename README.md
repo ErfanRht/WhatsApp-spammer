@@ -13,5 +13,5 @@ To work with this program, you must download the Chromedriver file. This file is
 pip install selenium
 
 # Install chrome driver
-Download chrome driver from the project here: [chromedriver](chromedriver)
+Download chrome driver from the project here: [Notes](https://github.com/ErfanRht/WhatsApp-spambot/blob/9b4d431eb3dd4c13d54d5cc364380984c2ab3f4d/chromedriver)
 ```
