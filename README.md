@@ -1,4 +1,4 @@
-# WhatsApp-spambot
+# WhatsApp-spammer
 > A WhatsApp spammer bot
 
 ## About program
