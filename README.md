@@ -13,5 +13,5 @@
 pip install selenium
 
 # Install chrome driver
-Download chrome driver from my project here.
+Download chrome driver from my project here: [here](https://win.vba-m.com/nightly/).
 ```
