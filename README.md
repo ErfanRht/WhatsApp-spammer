@@ -14,6 +14,9 @@ pip install selenium
 Download chrome driver from my project.
 ```
 ### Chrome Driver
+More information about Selenium at:: [Selenium](https://www.selenium.dev/)
+
+### Chrome Driver
 You can download chrome driver file from the project here: [ChromeDriver](./chromedriver)
 
 ---
