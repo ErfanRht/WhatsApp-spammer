@@ -7,8 +7,6 @@
 ## Quick Start
 
 ``` bash
-# Install dependencies
-
 # Install Selenium
 pip install selenium
 
